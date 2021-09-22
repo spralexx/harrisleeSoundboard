@@ -107,6 +107,10 @@ const SFX = {
 	maybritthass: {
 		text: 'Maybritt ich hasse dich',
 		samples: 1
+	},
+	jajaja: {
+		text: 'Jajaja',
+		samples: 1
 	}
 };
 
