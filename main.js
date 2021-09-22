@@ -1,40 +1,8 @@
 const SFX_PATH_BASE = 'assets/sfx';
 const SFX = {
-	allo: {
-		text: 'Allo',
-		samples: 3
-	},
-	correc: {
-		text: 'C\'est correc',
-		samples: 7
-	},
-	csharp: {
-		text: 'C#',
+	feruerball: {
+		text: 'Feuerball',
 		samples: 1
-	},
-	donc: {
-		text: 'Donc',
-		samples: 9
-	},
-	euh: {
-		text: 'Euuuh',
-		samples: 16
-	},
-	hein: {
-		text: 'Hein ?',
-		samples: 2
-	},
-	ok: {
-		text: 'OK',
-		samples: 5
-	},
-	pistolet: {
-		text: 'Pistolet',
-		samples: 10
-	},
-	regardez: {
-		text: 'Regardez !',
-		samples: 4
 	}
 };
 
@@ -63,8 +31,8 @@ const main = document.querySelector('main');
 if ('serviceWorker' in navigator) {
 	window.addEventListener('load', async _ => {
 		try {
-			const registration = await navigator.serviceWorker.register('/khrissbox/sw.js', {
-				scope: '/khrissbox/'
+			const registration = await navigator.serviceWorker.register('/soundboard/sw.js', {
+				scope: '/soundboard/'
 			});
 			console.log(registration);
 		} catch (err) {

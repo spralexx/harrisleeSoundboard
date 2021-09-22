@@ -1,6 +1,6 @@
 {
-	"short_name": "Khrissbox",
-	"name": "Khissbox",
+	"short_name": "Soundboard",
+	"name": "Soundboard",
 	"icons": [
 		{
 			"src": "assets/img/logo512.png",
@@ -8,8 +8,8 @@
 			"sizes": "512x512"
 		}
 	],
-	"start_url": "/khrissbox/",
-	"scope": "/khrissbox/",
+	"start_url": "/soundboard/",
+	"scope": "/soundboard/",
 	"background_color": "#f44",
 	"theme_color": "#f44",
 	"display": "standalone"

@@ -1,12 +1,12 @@
 const cacheWhitelist = ['v1'];
 const filesToCache = [
-	'/khrissbox/index.html',
-	'/khrissbox/main.js',
-	'/khrissbox/assets/css/main.css',
-	'/khrissbox/assets/sfx/allo/1.wav',
-	'/khrissbox/assets/sfx/allo/2.wav',
-	'/khrissbox/assets/sfx/allo/3.wav',
-	// '/khrissbox/assets/sfx/',
+	'/soundboard/index.html',
+	'/soundboard/main.js',
+	'/soundboard/assets/css/main.css',
+	'/soundboard/assets/sfx/allo/1.wav',
+	'/soundboard/assets/sfx/allo/2.wav',
+	'/soundboard/assets/sfx/allo/3.wav',
+	// '/soundboard/assets/sfx/',
 ];
 
 // On installation, add assets to cache
