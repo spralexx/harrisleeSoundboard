@@ -7,6 +7,10 @@ const SFX = {
 	ruelps: {
 		text: 'Rülps',
 		samples: 1
+	},
+	homo: {
+		text: 'Homo',
+		samples: 1
 	}
 };
 
