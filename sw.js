@@ -3,10 +3,7 @@ const filesToCache = [
 	'/soundboard/index.html',
 	'/soundboard/main.js',
 	'/soundboard/assets/css/main.css',
-	'/soundboard/assets/sfx/allo/1.wav',
-	'/soundboard/assets/sfx/allo/2.wav',
-	'/soundboard/assets/sfx/allo/3.wav',
-	// '/soundboard/assets/sfx/',
+	'/soundboard/assets/sfx/feuerball/1.wav',
 ];
 
 // On installation, add assets to cache

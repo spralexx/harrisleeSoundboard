@@ -1,6 +1,6 @@
 const SFX_PATH_BASE = 'assets/sfx';
 const SFX = {
-	feruerball: {
+	feuerball: {
 		text: 'Feuerball',
 		samples: 1
 	}
