@@ -43,6 +43,70 @@ const SFX = {
 	nichtgefickt: {
 		text: 'Gefickt wird nicht',
 		samples: 1
+	},
+	unfall: {
+		text: 'Da haben wir den Unfall',
+		samples: 1
+	},
+	sonescheisse: {
+		text: 'Sone Scheiße',
+		samples: 1
+	},
+	kommdoch: {
+		text: 'Komm doch Junge',
+		samples: 1
+	},
+	homo3: {
+		text: 'Homo!',
+		samples: 1
+	},
+	sogehtdas: {
+		text: 'In die Fresse ballern',
+		samples: 1
+	},
+	mongo: {
+		text: 'Verrückter Mongo',
+		samples: 1
+	},
+	gehtnicht: {
+		text: 'Junge das geht nicht',
+		samples: 1
+	},
+	geldalle: {
+		text: 'Einkaufen, Geld alle',
+		samples: 1
+	},
+	freibier: {
+		text: 'Freibier!',
+		samples: 1
+	},
+	fingervonnuggets: {
+		text: 'Lass deine Finger von meinen Nuggets',
+		samples: 1
+	},
+	wievielbier: {
+		text: 'Wie viel Bier ist das?',
+		samples: 1
+	},
+	lastkraftwagen: {
+		text: 'Lastkraftwagenfahrer',
+		samples: 1
+	},
+	wasserskiYorick: {
+		text: 'Wasserskifahren mit Yorick',
+		samples: 1
+	},
+	sicherwache: {
+		text: 'Sicher auf Wache?',
+		samples: 1
+	},
+	dulallst: {
+		text: 'Du weißt wie doll du lallst?',
+		samples: 1
+	},
+	maybritthass: {
+		text: 'Maybritt ich hasse dich',
+		samples: 1
 	}
 };
 
