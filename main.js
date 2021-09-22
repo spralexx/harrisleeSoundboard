@@ -152,7 +152,7 @@ if ('serviceWorker' in navigator) {
 // Create buttons
 for (const [name, sfx] of Object.entries(SFX)) {
 	const button = document.createElement('button');
-	button.innerText = `${sfx.text} (${sfx.samples})`;
+	button.innerText = `${sfx.text}`;
 	button.addEventListener('click', _ => {
 		audio.src = getSFXPath(name);
 		console.log(audio.src);
