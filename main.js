@@ -11,6 +11,38 @@ const SFX = {
 	homo: {
 		text: 'Homo',
 		samples: 1
+	},
+	kackteil: {
+		text: 'Kackteil',
+		samples: 1
+	},
+	fuehlnichts: {
+		text: 'Ich fühl nichts',
+		samples: 1
+	},
+	zweiliter: {
+		text: '2 liter Muschi',
+		samples: 1
+	},
+	geldgeben: {
+		text: 'Gib Geld',
+		samples: 1
+	},
+	bierweg: {
+		text: 'Bleib vom Bier weg',
+		samples: 1
+	},
+	meinplatz: {
+		text: 'Mein Platz',
+		samples: 1
+	},
+	homo2: {
+		text: 'Was fürn Homo',
+		samples: 1
+	},
+	nichtgefickt: {
+		text: 'Gefickt wird nicht',
+		samples: 1
 	}
 };
 
