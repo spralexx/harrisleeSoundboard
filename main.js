@@ -3,6 +3,10 @@ const SFX = {
 	feuerball: {
 		text: 'Feuerball',
 		samples: 1
+	},
+	ruelps: {
+		text: 'Rülps',
+		samples: 1
 	}
 };
 
