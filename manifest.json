@@ -8,8 +8,8 @@
 			"sizes": "512x512"
 		}
 	],
-	"start_url": "/soundboard/",
-	"scope": "/soundboard/",
+	"start_url": "/",
+	"scope": "/",
 	"background_color": "#f44",
 	"theme_color": "#f44",
 	"display": "standalone"
